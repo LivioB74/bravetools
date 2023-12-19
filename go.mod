@@ -12,8 +12,7 @@ require (
 	github.com/remyoudompheng/bigfft v0.0.0-20220927061507-ef77025ab5aa // indirect
 	github.com/spf13/cobra v1.6.1
 	github.com/spf13/pflag v1.0.5
-	golang.org/x/crypto v0.5.0 // indirect
-	golang.org/x/tools v0.5.0 // indirect
+	golang.org/x/crypto v0.17.0 // indirect
 	gopkg.in/yaml.v2 v2.4.0
 	modernc.org/memory v1.5.0 // indirect
 	modernc.org/sqlite v1.20.2
